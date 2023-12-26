@@ -1,5 +1,5 @@
 # Description
-In this assignment, you will conduct an analysis of tweets produced by Russian trolls during the 2016 US election. These tweets were published by 538. We’ll be assessing the frequency with which troll tweets mention “Trump” by name.
+In this assignment, we will conduct an analysis of tweets produced by Russian trolls during the 2016 US election. These tweets were published by 538. We’ll be assessing the frequency with which troll tweets mention “Trump” by name.
 
 1.	Data Collection
     a.	Download the raw tweet data.
@@ -12,4 +12,4 @@ In this assignment, you will conduct an analysis of tweets produced by Russian t
     b.	Create a new version of your dataset that contains this additional feature.
 3.	Analysis
     a.	Using your newly annotated dataset, compute the statistic: % of tweets that mention Trump.
-    b.	It turns out that our approach isn’t counting tweets properly … meaning that some tweets are getting counted more than once.  Go through and look at your annotated data.  Identify where the counting problem is coming from.
+    b.	It turns out that our approach isn’t counting tweets properly … meaning that some tweets are getting counted more than once. Go through and look at your annotated data. Identify where the counting problem is coming from.
